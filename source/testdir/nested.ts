@@ -1,0 +1,1 @@
+export default {nested: 22222222222}
